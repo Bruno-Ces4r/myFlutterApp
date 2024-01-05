@@ -1,2 +1,2 @@
 # myFlutterApp
-Repositório criado com o intuito de adicionar códigos relacionados ao curso do Santander em parceria coma DIO 
+Repositório criado com o intuito de adicionar códigos relacionados ao curso do Santander em parceria com a DIO 
